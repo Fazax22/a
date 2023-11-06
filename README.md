@@ -39,7 +39,7 @@
 
 * Clone this repo and install the requirements
     ```bash
-    git clone https://github.com/Fazaxx22/a.git && cd PyBirthdayWish && pip install -r requirements.txt
+    git clone https://github.com/Fazax22/a.git && cd PyBirthdayWish && pip install -r requirements.txt
     ```
 * Edit the ``arts/art.py`` file and add your texts and colors using color codes.
 
