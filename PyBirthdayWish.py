@@ -76,7 +76,7 @@ def pcode():
     if codePrint:
         for i in range(len(code)):
             print(colored(code[i], codeColor),sep='', end='',flush= True);sleep(codingSpeed)
-        input('\n\n'+colored('python3','blue')+colored(' PyBirthdayWish.py','yellow'))
+        input('\n\n'+colored('python3','blue')+colored(' art.py','yellow'))
         os.system('cls' if os.name == 'nt' else 'clear')
     else:
         input(colored('press F11 and hit {Enter}...','blue'))
